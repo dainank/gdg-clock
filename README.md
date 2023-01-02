@@ -5,5 +5,5 @@ Basic command-line clock written in Lua. It was intended to mimic a digital cloc
 Install Lua here: https://www.lua.org/download.html
 
 ## Running
-Issue the following command in the root directory.
+Issue the following command in the root directory: 
 `lua ./src/clock.lua`
